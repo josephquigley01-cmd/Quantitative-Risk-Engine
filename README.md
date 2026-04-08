@@ -26,11 +26,19 @@ To prioritize execution speed and scalability, the simulation circumvents the ne
 * `main.py`: Entry point for configuring the mock portfolio and generating `matplotlib` visualizations.
 
 ## Getting Started
-1. Clone the repository.
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-3. Run main.py
-   ```bash
-   python main.py
+
+**1. Clone the repository.**
+```bash
+git clone [https://github.com/josephquigley01-cmd/Time-Series-Anomaly-Detection-for-Predictive-Maintenance.git](https://github.com/josephquigley01-cmd/Time-Series-Anomaly-Detection-for-Predictive-Maintenance.git)
+cd Time-Series-Anomaly-Detection-for-Predictive-Maintenance
+```
+
+**2. Install dependencies:**
+```bash
+pip install -r requirements.txt
+```
+
+**3. Run main.py**
+```bash
+python main.py
    
