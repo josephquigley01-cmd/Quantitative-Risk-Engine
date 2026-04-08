@@ -29,7 +29,7 @@ To prioritize execution speed and scalability, the simulation circumvents the ne
 
 **1. Clone the repository.**
 ```bash
-git clone [https://github.com/josephquigley01-cmd/Time-Series-Anomaly-Detection-for-Predictive-Maintenance.git](https://github.com/josephquigley01-cmd/Time-Series-Anomaly-Detection-for-Predictive-Maintenance.git)
+git clone [https://github.com/josephquigley01-cmd/Quantitative-Risk-Engine.git](https://github.com/josephquigley01-cmd/Quantitative-Risk-Engine.git)
 cd Time-Series-Anomaly-Detection-for-Predictive-Maintenance
 ```
 
