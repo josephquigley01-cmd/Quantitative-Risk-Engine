@@ -30,3 +30,7 @@ To prioritize execution speed and scalability, the simulation circumvents the ne
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
+3. Run main.py
+   ```bash
+   python main.py
+   
